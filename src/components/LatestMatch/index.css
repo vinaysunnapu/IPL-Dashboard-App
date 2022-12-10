@@ -1,0 +1,19 @@
+.match-container {
+  width: 1000px;
+
+  background-color: #0f172a;
+  border-radius: 10px;
+  padding: 10px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.result-container {
+  color: white;
+  font-family: bree serif;
+  width: 300px;
+}
+.image-logo {
+  height: 200px;
+  width: 200px;
+}
